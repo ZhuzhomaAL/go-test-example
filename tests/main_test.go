@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
-	"TechnikumTest/utils"
 	"github.com/joho/godotenv"
 	"github.com/playwright-community/playwright-go"
+	"go-test-example/utils"
 )
 
 func TestMain(m *testing.M) {

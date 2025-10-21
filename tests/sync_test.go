@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"TechnikumTest/utils"
 	"github.com/playwright-community/playwright-go"
 	"github.com/stretchr/testify/require"
+	"go-test-example/utils"
 )
 
 func TestClientServerDataSync(t *testing.T) {
